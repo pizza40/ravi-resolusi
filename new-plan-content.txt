@@ -3,6 +3,7 @@ New Plan Content :
 - Learn new language
   * JavaScript
 - Learn new Framework
-  *learn code ignitor
+  *learn code igniter
   *learn react js
+  *learn vue
 - Get AAD certificate
