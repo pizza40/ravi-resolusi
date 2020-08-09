@@ -1,7 +1,9 @@
 New Plan Content :
 - Interview
 - Learn new language
+  *python
+  *kotlin
 - Learn new Framework
-  *learn code ignitor
-  *learn react js
+  *learn Laravel
+  *learn Vue
 - Get AAD certificate
